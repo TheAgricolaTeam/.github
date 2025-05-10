@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+Welcome to the Agricola Team Lab repository. Here we will list our programming tools and algorithms, that can be used by future students, colleages, and others.
+
+The github members of the The Agricola Team are:
+
+[Alfonso Torres](https://github.com/diviningwater)
+[Mahyar Aboutalebi](https://github.com/Mahyarona)
+[Purna Shrestha](https://github.com/purnasth)
+[Purna Shrestha](https://github.com/purnasth)
+[Purna Shrestha](https://github.com/purnasth)
+[Purna Shrestha](https://github.com/purnasth)
+[Purna Shrestha](https://github.com/purnasth)
+
+
+@
+
 <!--
 
 **Here are some ideas to get you started:**

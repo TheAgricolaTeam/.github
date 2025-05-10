@@ -13,10 +13,18 @@ Ayman Nassar
 [Rui Gao](https://github.com/RuiGao9)
 
 [Oliver Hargreaves](https://github.com/OliverHargreaves)
-[Purna Shrestha](https://github.com/purnasth)
-[Purna Shrestha](https://github.com/purnasth)
-[Purna Shrestha](https://github.com/purnasth)
 
+[Laura Christiansen]
+
+[Karem Meza]
+
+[Anderson Safre]
+
+[Katherine Osorio]
+
+[Moises Duran](https://github.com/MRDuran93)
+
+[Sergio Alvarez](https://github.com/alvarezsergiom1)
 
 @
 

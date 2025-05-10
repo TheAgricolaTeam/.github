@@ -5,9 +5,14 @@ Welcome to the Agricola Team Lab repository. Here we will list our programming t
 The github members of the The Agricola Team are:
 
 [Alfonso Torres](https://github.com/diviningwater)
+
 [Mahyar Aboutalebi](https://github.com/Mahyarona)
-[Purna Shrestha](https://github.com/purnasth)
-[Purna Shrestha](https://github.com/purnasth)
+
+Ayman Nassar
+
+[Rui Gao](https://github.com/RuiGao9)
+
+[Oliver Hargreaves](https://github.com/OliverHargreaves)
 [Purna Shrestha](https://github.com/purnasth)
 [Purna Shrestha](https://github.com/purnasth)
 [Purna Shrestha](https://github.com/purnasth)

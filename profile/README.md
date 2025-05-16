@@ -1,12 +1,14 @@
 ## Welcome to the Agricola Team Lab repository! 
 
-The "Agricola Team" is a research lab group directed by Prof [Alfonso Torres](https://github.com/diviningwater), at Utah State University. 
+The "Agricola Team" is a research lab group directed by Prof [Alfonso Torres-Rua](https://github.com/diviningwater), at Utah State University. 
 The Agricola Team uses remote sensing sources (satellite, drone information) and ground data information to describe and generate information in agricultural, urban, and natural environments. 
 Our studies are focused on water use in agriculture, precision irrigation, development of algorithms and new applications of spatial data. <br>
 
 Here we will list our programming tools and algorithms, part of our research, that can be used by anybody.
 
 The members of the The Agricola Team are:
+
+<img src="https://github.com/diviningwater.png" width="60px;"/> [Alfonso Torres](https://github.com/diviningwater)
 
 <img src="https://github.com/andersonsafre.png" width="60px;"/> [Anderson Safre](https://github.com/andersonsafre)
 

@@ -28,7 +28,9 @@ The members of the The Agricola Team are:
 
 [Mahyar Aboutalebi](https://github.com/Mahyarona)
 
-[<img src="https://github.com/diviningwater.png" width="60px;"/><br /><sub><ahref="https://github.com/diviningwater">{{ contributor }}</a></sub>](https://github.com/{{ diviningwater }}/{{ Remote-Sensing-Lab-with-GEE }}
+<img src="https://github.com/diviningwater.png" width="60px;"/>
+
+<br /><sub><ahref="https://github.com/diviningwater">{{ contributor }}</a></sub>](https://github.com/{{ diviningwater }}/{{ Remote-Sensing-Lab-with-GEE }}
 
 
 <!--

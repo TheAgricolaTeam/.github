@@ -1,37 +1,32 @@
 ## Welcome to the Agricola Team Lab repository! 
 
-The "Agricola Team" is a research lab group directed by Prof Alfonso Torres-Rua, at Utah State University. 
+The "Agricola Team" is a research lab group directed by Prof [Alfonso Torres](https://github.com/diviningwater), at Utah State University. 
 The Agricola Team uses remote sensing sources (satellite, drone information) and ground data information to describe and generate information in agricultural, urban, and natural environments. 
 Our studies are focused on water use in agriculture, precision irrigation, development of algorithms and new applications of spatial data. <br>
 
-I
-is Here we will list our programming tools and algorithms, that can be used by future students, colleages, and others.
+Here we will list our programming tools and algorithms, part of our research, that can be used by anybody.
 
-The github members of the The Agricola Team are:
+The members of the The Agricola Team are:
 
-[Alfonso Torres](https://github.com/diviningwater)
+[Anderson Safre](https://github.com/andersonsafre)
 
-[Mahyar Aboutalebi](https://github.com/Mahyarona)
-
-Ayman Nassar
-
-[Rui Gao](https://github.com/RuiGao9)
-
-[Oliver Hargreaves](https://github.com/OliverHargreaves)
-
-[Laura Christiansen]
-
-[Karem Meza]
-
-[Anderson Safre]
-
-[Katherine Osorio]
+[Katherine Osorio](https://github.com/KJOsorio)
 
 [Moises Duran](https://github.com/MRDuran93)
 
 [Sergio Alvarez](https://github.com/alvarezsergiom1)
 
-@
+[Karem Meza]
+
+[Laura Christiansen]
+
+[Oliver Hargreaves](https://github.com/OliverHargreaves)
+
+[Rui Gao](https://github.com/RuiGao9)
+
+[Ayman Nassar](https://github.com/aymnassar)
+
+[Mahyar Aboutalebi](https://github.com/Mahyarona)
 
 <!--
 

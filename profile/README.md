@@ -1,6 +1,11 @@
-## Hi there 👋
+## Welcome to the Agricola Team Lab repository! 
 
-Welcome to the Agricola Team Lab repository. Here we will list our programming tools and algorithms, that can be used by future students, colleages, and others.
+The "Agricola Team" is a research lab group directed by Prof Alfonso Torres-Rua, at Utah State University. 
+The Agricola Team uses remote sensing sources (satellite, drone information) and ground data information to describe and generate information in agricultural, urban, and natural environments. 
+Our studies are focused on water use in agriculture, precision irrigation, development of algorithms and new applications of spatial data. <br>
+
+I
+is Here we will list our programming tools and algorithms, that can be used by future students, colleages, and others.
 
 The github members of the The Agricola Team are:
 

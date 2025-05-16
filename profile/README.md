@@ -8,7 +8,7 @@ Here we will list our programming tools and algorithms, part of our research, th
 
 The members of the The Agricola Team are:
 
-<img src="https://github.com/diviningwater.png" width="60px;"/> [Alfonso Torres](https://github.com/diviningwater) Associate Professor, Irrigation Engineering, Utah State University
+<img src="https://github.com/diviningwater.png" width="60px;"/> [Alfonso Torres-Rua](https://github.com/diviningwater) Associate Professor, Irrigation Engineering, Utah State University
 
 <img src="https://github.com/andersonsafre.png" width="60px;"/> [Anderson Safre](https://github.com/andersonsafre) PhD student, yield mapping and water management in cherry orchards.
 
@@ -18,17 +18,17 @@ The members of the The Agricola Team are:
 
 <img src="https://github.com/alvarezsergiom1.png" width="60px;"/> [Sergio Alvarez](https://github.com/alvarezsergiom1), PhD student, ET partition and water stress in vineyards.
 
-[Karem Meza], PhD student, UAV ET estimation in urban areas
+[Karem Meza], PhD student, UAV ET estimation in urban areas.
 
-[Laura Christiansen]
+[Laura Christiansen], MSc student, OpenET assesment for crop water monitoring in Utah.
 
-<img src="https://github.com/OliverHargreaves.png" width="60px;"/> [Oliver Hargreaves](https://github.com/OliverHargreaves)
+<img src="https://github.com/OliverHargreaves.png" width="60px;"/> [Oliver Hargreaves](https://github.com/OliverHargreaves) ET estimation using soil moisture sensors in agricultural lands. 
 
-<img src="https://github.com/RuiGao9.png" width="60px;"/> [Rui Gao](https://github.com/RuiGao9)
+<img src="https://github.com/RuiGao9.png" width="60px;"/> [Rui Gao](https://github.com/RuiGao9) Machine Learning applications for the estimation of Evapotranspiration in vineyards
 
-<img src="https://github.com/aymnassar.png" width="60px;"/> [Ayman Nassar](https://github.com/aymnassar)
+<img src="https://github.com/aymnassar.png" width="60px;"/> [Ayman Nassar](https://github.com/aymnassar) Application of ET models in agricultural and urban environments.
 
-<img src="https://github.com/Mahyarona.png" width="60px;"/> [Mahyar Aboutalebi](https://github.com/Mahyarona)
+<img src="https://github.com/Mahyarona.png" width="60px;"/> [Mahyar Aboutalebi](https://github.com/Mahyarona) Evaluation of ET models over vineyards.
 
 
 

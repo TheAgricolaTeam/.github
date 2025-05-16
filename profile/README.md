@@ -8,29 +8,26 @@ Here we will list our programming tools and algorithms, part of our research, th
 
 The members of the The Agricola Team are:
 
-[Anderson Safre](https://github.com/andersonsafre)
+<img src="https://github.com/andersonsafre.png" width="60px;"/>[Anderson Safre](https://github.com/andersonsafre)
 
-[Katherine Osorio](https://github.com/KJOsorio)
+<img src="https://github.com/KJOsorio.png" width="60px;"/>[Katherine Osorio](https://github.com/KJOsorio)
 
-[Moises Duran](https://github.com/MRDuran93)
+<img src="https://github.com/MRDuran93.png" width="60px;"/>[Moises Duran](https://github.com/MRDuran93)
 
-[Sergio Alvarez](https://github.com/alvarezsergiom1)
+<img src="https://github.com/alvarezsergiom1.png" width="60px;"/>[Sergio Alvarez](https://github.com/alvarezsergiom1)
 
 [Karem Meza]
 
 [Laura Christiansen]
 
-[Oliver Hargreaves](https://github.com/OliverHargreaves)
+<img src="https://github.com/OliverHargreaves.png" width="60px;"/>[Oliver Hargreaves](https://github.com/OliverHargreaves)
 
-[Rui Gao](https://github.com/RuiGao9)
+<img src="https://github.com/RuiGao9.png" width="60px;"/>[Rui Gao](https://github.com/RuiGao9)
 
-[Ayman Nassar](https://github.com/aymnassar)
+<img src="https://github.com/aymnassar.png" width="60px;"/>[Ayman Nassar](https://github.com/aymnassar)
 
-[Mahyar Aboutalebi](https://github.com/Mahyarona)
+<img src="https://github.com/Mahyarona.png" width="60px;"/>[Mahyar Aboutalebi](https://github.com/Mahyarona)
 
-<img src="https://github.com/diviningwater.png" width="60px;"/>
-
-<br /><sub><ahref="https://github.com/diviningwater">{{ contributor }}</a></sub>](https://github.com/{{ diviningwater }}/{{ Remote-Sensing-Lab-with-GEE }}
 
 
 <!--

@@ -8,17 +8,17 @@ Here we will list our programming tools and algorithms, part of our research, th
 
 The members of the The Agricola Team are:
 
-<img src="https://github.com/diviningwater.png" width="60px;"/> [Alfonso Torres](https://github.com/diviningwater)
+<img src="https://github.com/diviningwater.png" width="60px;"/> [Alfonso Torres](https://github.com/diviningwater) Associate Professor, Irrigation Engineering, Utah State University
 
-<img src="https://github.com/andersonsafre.png" width="60px;"/> [Anderson Safre](https://github.com/andersonsafre)
+<img src="https://github.com/andersonsafre.png" width="60px;"/> [Anderson Safre](https://github.com/andersonsafre) PhD student, yield mapping and water management in cherry orchards.
 
-<img src="https://github.com/KJOsorio.png" width="60px;"/> [Katherine Osorio](https://github.com/KJOsorio)
+<img src="https://github.com/KJOsorio.png" width="60px;"/> [Katherine Osorio](https://github.com/KJOsorio), PhD student, irrigation canal companies water management and climate impact
 
-<img src="https://github.com/MRDuran93.png" width="60px;"/> [Moises Duran](https://github.com/MRDuran93)
+<img src="https://github.com/MRDuran93.png" width="60px;"/> [Moises Duran](https://github.com/MRDuran93), PhD student, evapotranspiration and water stress in California almond orchards
 
-<img src="https://github.com/alvarezsergiom1.png" width="60px;"/> [Sergio Alvarez](https://github.com/alvarezsergiom1)
+<img src="https://github.com/alvarezsergiom1.png" width="60px;"/> [Sergio Alvarez](https://github.com/alvarezsergiom1), PhD student, ET partition and water stress in vineyards.
 
-[Karem Meza]
+[Karem Meza], PhD student, UAV ET estimation in urban areas
 
 [Laura Christiansen]
 

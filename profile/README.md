@@ -20,7 +20,7 @@ The members of the The Agricola Team are:
 
 [Karem Meza], PhD student, UAV ET estimation in urban areas.
 
-[Laura Christiansen], MSc student, OpenET assesment for crop water monitoring in Utah.
+<img src="https://github.com/laurachristi.png" width="60px;"/> [Laura Christiansen](https://github.com/laurachristi), MSc student, OpenET assesment for crop water monitoring in Utah.
 
 <img src="https://github.com/OliverHargreaves.png" width="60px;"/> [Oliver Hargreaves](https://github.com/OliverHargreaves) ET estimation using soil moisture sensors in agricultural lands. 
 
